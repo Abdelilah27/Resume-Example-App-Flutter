@@ -1,6 +1,5 @@
 # portfolio_cv_resume App
 Building a Resume App Using Flutter.
-A new Flutter project.
 
 ## Screenshot
 
