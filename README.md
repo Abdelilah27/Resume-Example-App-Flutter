@@ -1,4 +1,4 @@
-# portfolio_cv
+# portfolio_cv_resume App
 
 A new Flutter project.
 
