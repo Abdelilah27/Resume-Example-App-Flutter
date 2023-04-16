@@ -1,18 +1,31 @@
-# portfolio_cv_resume App
-Building a Resume App Using Flutter.
+# Potfolio Example App
+
+This is a Flutter application for creating a personal resume.
+
+## Features
+
+* User-friendly interface
+* Clean and simple design
+* Customizable sections and fields
+
+## Screenshots
 
 <img src="https://user-images.githubusercontent.com/71185753/154866665-03d17d31-eb56-4dd7-b794-c87e8669190f.gif" width="350">
 
+## How to Use
 
-## Getting Started
+1. Install Flutter (if not already installed)
+2. Clone the repository
+3. Run `flutter pub get`
+4. Run `flutter run`
 
-This project is a starting point for a Flutter application.
+## Credits
 
-A few resources to get you started if this is your first Flutter project:
+This project uses the following open-source packages:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+* [url_launcher](https://pub.dev/packages/url_launcher)
 
-For help getting started with Flutter, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions are always welcome! If you have any ideas or suggestions, feel free to create an issue or submit a pull request.
